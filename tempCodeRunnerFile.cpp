@@ -1,0 +1,1 @@
+cout<<"Input static subject mark= "<<endl
